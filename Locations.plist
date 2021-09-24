@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>identifier</key>
+		<string>SydneyOperaHouse</string>
+		<key>latitude</key>
+		<real>-33.85720393075132</real>
+		<key>longitude</key>
+		<real>151.2149927203421</real>
+		<key>radius</key>
+		<integer>100</integer>
+		<key>note</key>
+		<string>Entering Sydney Opera House</string>
+		<key>eventType</key>
+		<string>On Entry</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<string>SydneyHarbourBridge</string>
+		<key>latitude</key>
+		<real>-33.85237651701706</real>
+		<key>longitude</key>
+		<real>151.2107065303167</real>
+		<key>radius</key>
+		<integer>100</integer>
+		<key>note</key>
+		<string>Entering Sydney Harbour Bridge</string>
+		<key>eventType</key>
+		<string>On Entry</string>
+	</dict>
+	<dict>
+		<key>identifier</key>
+		<string>Barangaroo</string>
+		<key>latitude</key>
+		<real>-33.85725820482482</real>
+		<key>longitude</key>
+		<real>151.2007502281334</real>
+		<key>radius</key>
+		<integer>100</integer>
+		<key>note</key>
+		<string>Exiting Barangaroo</string>
+		<key>eventType</key>
+		<string>On Exit</string>
+	</dict>
+</array>
+</plist>
